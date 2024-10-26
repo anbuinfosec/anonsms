@@ -342,9 +342,7 @@ When the SMS is sent successfully, the API returns the following JSON response:
     "mobile": "01XXXXXXXXX",
     "msg": "ANON SMS PANEL",
     "newBalance": 796,
-    "ip": "XXX.XXX.XX.XXX
-
-"
+    "ip": "XXX.XXX.XX.XXX"
 }
 ```
 
